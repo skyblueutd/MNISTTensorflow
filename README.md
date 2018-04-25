@@ -1,6 +1,6 @@
 # MNISTTensorflow
 In this project we will run experiments using tensorflow. The experiments are closely related to the online example available at:
-https://www.tensorow.org/get started/mnist/pros.
+https://www.tensorow.org/get/started/mnist/pros.
 
 The code in the example takes about 30 minutes to train, and achieves over 99% accuracy.
 In this project I tired to solve the exact same problem with two constraints on the network being created that are intended to shorten the training time:
